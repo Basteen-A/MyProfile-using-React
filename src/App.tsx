@@ -362,7 +362,7 @@ const Portfolio = () => {
                   className="group flex items-center gap-3 border-2 border-white text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full font-semibold hover:bg-white hover:text-blue-600 hover:shadow-2xl hover:scale-105 transition-all duration-300"
                 >
                   <FileText size={20} />
-                 <a  href="https://drive.google.com/file/d/1MnfeC42iNiGf1kpaPsbjCWfI2Q4okX4B/view?usp=drivesdk">See My Resume</a> 
+                 <a  href="https://drive.google.com/file/d/1NUqegX02PKfHrVLtJ0bGsw_YqSfUv4SC/view?usp=drivesdk">See My Resume</a> 
                   <Download size={16} className="group-hover:translate-y-1 transition-transform duration-200"  />
                 </button>
               </div>
